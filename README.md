@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ankita-21.github.io/Ankita-portfolio.github.io)
-<h1 align="center">Hi 👋, I'm Ankita Kumari</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankita Kumari</h1>
 <h3 align="center">A passionate Fullstack Developer </h3>
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="ilzOXDw" data-context="false" ><a href="//imgur.com/ilzOXDw"></a></blockquote>
