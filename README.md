@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ankita Kumari</h1>
-<h3 align="center">A passionate Fullstack Developer from NIT Allahabad</h3>
+<h3 align="center">A passionate Fullstack Developer </h3>
 <img align="right"  src = "https://imgur.com/ilzOXDw">
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://ankita-21.github.io/Ankita-portfolio.github.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ankita-21.github.io/Ankita-portfolio.github.io)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita-21&label=Profile%20views&color=0e75b6&style=flat" alt="ankita-21" /> </p>
 
-- 🔭 Hey, I am pursuing B.Tech. in Electrical Engineering from [🚀NIT Allahabad, Prayagraj, Uttar Pradesh.](http://www.mnnit.ac.in/)
+- 🔭 Hey, I am pursuing B.Tech. in Electrical Engineering from [🚀NIT Allahabad](http://www.mnnit.ac.in/), Prayagraj, Uttar Pradesh.
 
 - 🌱 I’m currently learning **ReactJS, FastAPI.**
 
 - 👯I'm a Web🕸 developer working with **Node.js, Express.js, MySQL and Database connectivities** along with HTML, CSS, Bootstrap, JS for frontend portion.
 
-- 👨‍💻 All of my projects are available at [https://ankita-21.github.io/Ankita-portfolio.github.io/](https://ankita-21.github.io/Ankita-portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [My-portfolio](https://ankita-21.github.io/Ankita-portfolio.github.io/)
 
 - 💬 Ask me anything! **Always ready to help!🤩**
 
 - 📫 How to reach me **ankita22kri@gmail.com**, will try my best to reply within 24 hrs🏁!
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FRVLdce5iLTMvacFP5T5knMUny7xMawi/view?usp=sharing](https://drive.google.com/file/d/1FRVLdce5iLTMvacFP5T5knMUny7xMawi/view?usp=sharing)
+- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1FRVLdce5iLTMvacFP5T5knMUny7xMawi/view?usp=sharing)
 
 - ⚡ Fun fact **I love exploring new place and people! Also observing people's psychology is what I do everytime to maintain perfect environment!**
 
