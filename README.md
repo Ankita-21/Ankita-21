@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/ankita-kumari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita-kumari1" height="30" width="40" /></a>
 <a href="mailto:ankita22kri@gmail.com" target="blank"><img align="center" src="https://pic.onlinewebfonts.com/svg/img_435938.png" alt="ankita-gmail" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ankita-22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankita-22" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<ankitakumari25032004>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<ankitakumari25032004>/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ankitakumari25032004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<ankitakumari25032004>/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
